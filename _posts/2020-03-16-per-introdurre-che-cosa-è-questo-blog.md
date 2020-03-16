@@ -2,9 +2,9 @@
 layout: post
 title: Per introdurre...che cosa è questo blog?
 ---
-**Questo blog**, che nasce nel momento molto particolare dell'emergenza pandemica del Covid-19, **è dedicato agli insegnanti**.  
 
-Il tema trattato qui è quello dell'**uso didattico delle tecnologie digitali** nel caso del **livello scolastico pre-universitario**. 
+
+**Questo blog**, che nasce nel momento molto particolare dell'emergenza pandemica del Covid-19, **è dedicato agli insegnanti**.  Il tema trattato qui è quello dell'**uso didattico delle tecnologie digitali** nel caso del **livello scolastico pre-universitario**. 
 
 Lo studio delle potenzialità didattiche delle tecnologie digitali è tutt'ora oggetto di studio per la ricerca scientifica e si tratta di un campo di particolare complessità perchè **terreno un po' di confine e un po' condiviso tra molte discipline**.  
 
