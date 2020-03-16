@@ -10,4 +10,4 @@ Noi leggeremo con attenzione sperando di riuscire a fare qualcosa di utile per d
 Intanto..grazie :blush:!
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeriA5F-9HVP-WUvsr8l_j8ewbAx8uhiUyHJ3cuFQHhS3nlyA/viewform?embedded=true" width="80%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeriA5F-9HVP-WUvsr8l_j8ewbAx8uhiUyHJ3cuFQHhS3nlyA/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
