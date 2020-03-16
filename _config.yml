@@ -34,8 +34,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - blog.html
- - contatti.html
+ - Che cosa è questo blog.html
+ - Contatti.html
+ - Link utili.html
 
 # social links
 #twitter_username: jekyllrb
