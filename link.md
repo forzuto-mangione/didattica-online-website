@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Link utili
-permalink: /link/
+permalink: link.html
 ---
 
 bla bla
