@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Che cosa è questo blog
+title: Questo blog
 permalink: blog.html
 ---
 
