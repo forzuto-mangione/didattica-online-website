@@ -4,7 +4,7 @@ title: Questo blog
 permalink: blog.html
 ---
 
-**In breve**
+##In breve
 Questo blog nasce e assume senso durante l'emergenza Covid-19 ed è dedicato agli insegnanti delle scuole di qualsiasi ordine e grado per il livello pre-universitario.
 Obiettivo del blog è quello di offrire un supporto per gli "inghippi" quotidiani che si possono incontrare in questo momento in cui il realizzare forme di didattica a distanza e didattica online è **urgente**. 
 
