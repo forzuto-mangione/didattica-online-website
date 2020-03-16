@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Alcuni link utili a "sbirciare" nel mondo del software libero per la scuola
+title: Link utili
 ---
-Leggendo alcuni articoli nel blog di Wu Ming, 
 
-<https://it.wikibooks.org/wiki/Software_libero_a_scuola> 
 
-Ho scoperto l'esistenza di entrambe leggendo uno scambio di commenti in un articolo nel blog di Wum Ming]
+<iframe name="embed_readonly" src="https://quotidien.framapad.org/p/r.b3ff6095c8395fba366d91507659783e?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=1000 height=1000></iframe>
