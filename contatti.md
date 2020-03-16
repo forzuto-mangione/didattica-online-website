@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ho bisogno di una mano!
-permalink: /contatti.html
+permalink: contatti.html
 ---
 
 Per contattare questo "Sportello di aiuto" usa il form qui sotto per descriverci il problema che stai incontrando o l'intoppo che ti intralcia nella realizzazione di una didattica a distanza efficace! 
