@@ -16,7 +16,7 @@ Nel **video** si parla di:
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/xOZ4aK5ZwL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-Qui sotto potete vedere le **slide** sulle quali si basa il video (vi avverto perà che potrebbero esserci delle differenze! infatti, sto cercando di aggiornare e correggere le slide mano a mano che raccolgo nuove informazioni :)) 
+Qui sotto potete vedere le **slide** sulle quali si basa il video (vi avverto perà che potrebbero esserci delle differenze rispetto a quelle che vedrete nel video! infatti, sto cercando di aggiornare e correggere le slide mano a mano che raccolgo nuove informazioni :)) 
 <br>
 <br>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOCD-8o_UOQ9nVTj-n9DXQgWizOMjwN8vbP1daV6ZjfJVGD4mem4Pr6BVkZ7EkP4003q1bfs9q_ygA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="80%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
