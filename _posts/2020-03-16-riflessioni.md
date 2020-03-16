@@ -12,10 +12,10 @@ Nel video si parla di:
 - breve panoramica sui software più utili per la realizzazione di didattica a distanza
 - suggerimenti utili ad orientarsi con metodo in questo momento di difficoltà.
 
-<iframe width="80%" height="80%" src="https://www.youtube.com/embed/xOZ4aK5ZwL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="596" src="https://www.youtube.com/embed/xOZ4aK5ZwL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Qui sotto potete vedere le slide sulle quali si basa il video (vi avverto perà che potrebbero esserci delle differenze! infatti, sto cercando di aggiornare e correggere le slide mano a mano che raccolgo nuove informazioni :)) 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOCD-8o_UOQ9nVTj-n9DXQgWizOMjwN8vbP1daV6ZjfJVGD4mem4Pr6BVkZ7EkP4003q1bfs9q_ygA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="80%" height="80%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOCD-8o_UOQ9nVTj-n9DXQgWizOMjwN8vbP1daV6ZjfJVGD4mem4Pr6BVkZ7EkP4003q1bfs9q_ygA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="80%" height="596" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
