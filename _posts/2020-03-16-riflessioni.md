@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "[VIDEO] Riflessioni trasversali sulla didattica a distanza"
+title:  "Come orientarsi? Riflessioni trasversali sulla didattica a distanza"
 date:   2020-03-16 
 categories: suggerimenti
 ---
 
-# Domanda: come orientarsi?  
-Questo video raccoglie alcune riflessioni trasversali e, a mio avviso, di base per orientarsi in questo momento di difficoltà. 
+Questo **video** raccoglie alcune riflessioni trasversali che possono fornire alcuni punti di riferimento per orientarsi in questo momento di difficoltà. 
 
 ## Video
 Nel **video** si parla di:
