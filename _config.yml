@@ -35,7 +35,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - Che cosa è questo blog.html
- - Contatti.html
+ - Ho bisogno di una mano!.html
  - Link utili.html
 
 # social links
