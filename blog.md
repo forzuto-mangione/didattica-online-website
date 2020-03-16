@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Che cosa è questo blog
-permalink: /blog/
+permalink: blog.html
 ---
 
 Questo blog nasce e assume senso durante l'emergenza Covid-19 ed è dedicato agli insegnanti delle scuole di qualsiasi ordine e grado per il livello pre-universitario.
