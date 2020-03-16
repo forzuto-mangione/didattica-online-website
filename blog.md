@@ -13,6 +13,6 @@ Vorremmo provare a realizzare una specie di "sportello per l'emergenza" in cui f
 
 Per "attivare" questo sportello e chiedere aiuto ci sono due strade:
 1) scriverci una mail all'indirizzo emergenza.didattica.online@gmail.com
-2) compilare il form che trovate nella scheda **Mi serve un consiglio**
+2) compilare il form che trovate nella scheda **Ho bisogno di una mano!**
 
 Intanto vi ringrazio perchè se questa iniziativa avrà un senso, sarà solo grazie a voi.
