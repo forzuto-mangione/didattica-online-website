@@ -19,8 +19,8 @@ Mettiamola così: prima viene lo sportello di ascolto delle domande poi, assume 
 E' uno spazio nuovo, appena nato e al momento contiene poche informazioni che però, con la vostra collaborazione, aumenteranno siamo certi che aumenteranno sempre di più. 
 
 **Per "attivare" questo sportello e chiedere aiuto ci sono due strade:**
-1) scriverci una mail all'indirizzo emergenza.didattica.online@gmail.com
-2) compilare il form che trovate nella scheda [Contatta lo sportello](https://didatticaonline.netlify.com/contatti.html)
+1. scriverci una mail all'indirizzo emergenza.didattica.online@gmail.com
+2. compilare il form che trovate nella scheda [Contatta lo sportello](https://didatticaonline.netlify.com/contatti.html)
 
 Intanto vi ringrazio perchè se questa iniziativa avrà un senso, sarà solo grazie a voi.
 <br>
@@ -37,4 +37,4 @@ Ci troviamo a fronteggiare una situazione difficile e delicata su scala mondiale
 
 Il binomio emergenza-urgenza sposta l’attenzione sulla gestione dell’emergenza più che sulla gestione consapevole della complessità ma possiamo impegnarci per trasformare questo momento in un’opportunità di approfondimento.
 
-E allora, dai: proviamoci, insieme :)
+E allora, dai :blush:: proviamoci, insieme :)
