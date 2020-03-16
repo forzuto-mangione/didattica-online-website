@@ -5,8 +5,10 @@ date:   2020-03-16
 categories: suggerimenti
 ---
 
-In questo video ho provato a raccogliere alcune riflessioni trasversali e, a mio avviso, di base per orientarsi in questo momento di difficoltà. 
+## Domanda: come orientarsi?  
+Questo video raccoglie alcune riflessioni trasversali e, a mio avviso, di base per orientarsi in questo momento di difficoltà. 
 
+# Video
 Nel **video** si parla di:
 - "ingredienti" che permettono di realizzare forme di didattica a distanza e didattica online (hardware, software e connessione internet)
 - breve panoramica sui software più utili per la realizzazione di didattica a distanza
@@ -16,8 +18,9 @@ Nel **video** si parla di:
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/xOZ4aK5ZwL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-Qui sotto potete vedere le **slide** sulle quali si basa il video (vi avverto perà che potrebbero esserci delle differenze rispetto a quelle che vedrete nel video! infatti, sto cercando di aggiornare e correggere le slide mano a mano che raccolgo nuove informazioni :)) 
+# Slide
+Le **slide** sulle quali si basa il video sono visualizzabili qui sotto (vi avverto però che potrebbero esserci delle differenze rispetto a quelle che vedrete nel video! infatti, sto cercando di aggiornare e correggere le slide mano a mano che raccolgo nuove informazioni :)) 
 <br>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOCD-8o_UOQ9nVTj-n9DXQgWizOMjwN8vbP1daV6ZjfJVGD4mem4Pr6BVkZ7EkP4003q1bfs9q_ygA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="80%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOCD-8o_UOQ9nVTj-n9DXQgWizOMjwN8vbP1daV6ZjfJVGD4mem4Pr6BVkZ7EkP4003q1bfs9q_ygA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="80%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
