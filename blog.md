@@ -22,7 +22,7 @@ E' uno spazio nuovo, appena nato e al momento contiene poche informazioni che pe
 1. scriverci una mail all'indirizzo emergenza.didattica.online@gmail.com
 2. compilare il form che trovate nella scheda [Contatta lo sportello](https://didatticaonline.netlify.com/contatti.html)
 
-Intanto vi ringrazio perchè se questa iniziativa avrà un senso, sarà solo grazie a voi.
+Intanto vi ringraziamo perchè se questa iniziativa avrà un senso, sarà solo grazie a voi :blush:.
 <br>
 <br>
 
@@ -37,4 +37,4 @@ Ci troviamo a fronteggiare una situazione difficile e delicata su scala mondiale
 
 Il binomio emergenza-urgenza sposta l’attenzione sulla gestione dell’emergenza più che sulla gestione consapevole della complessità ma possiamo impegnarci per trasformare questo momento in un’opportunità di approfondimento.
 
-E allora, dai :blush:: proviamoci, insieme :)
+E allora, dai :smile:: proviamoci, insieme :) :muscle:
