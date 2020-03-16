@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Il blog in breve e contatti
+title: Ho bisogno di una mano!
 permalink: /contatti/
 ---
 
-Per contattare questo "sportello di emergenza" usa il form qui sotto per descriverci il problema che stai incontrando o l'intoppo che ti intralcia nella realizzazione di una didattica a distanza efficace! 
+Per contattare questo "Sportello di aiuto" usa il form qui sotto per descriverci il problema che stai incontrando o l'intoppo che ti intralcia nella realizzazione di una didattica a distanza efficace! 
 Noi leggeremo con attenzione sperando di riuscire a fare qualcosa di utile per darti una mano!
 
 Intanto..grazie!
