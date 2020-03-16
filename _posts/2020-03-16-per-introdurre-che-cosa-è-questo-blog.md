@@ -1,0 +1,21 @@
+---
+layout: post
+title: Per introdurre...che cosa è questo blog?
+---
+**Questo blog**, che nasce nel momento molto particolare dell'emergenza pandemica del Covid-19, **è dedicato agli insegnanti**.  
+
+Il tema trattato qui è quello dell'**uso didattico delle tecnologie digitali** nel caso del **livello scolastico pre-universitario**. 
+
+Lo studio delle potenzialità didattiche delle tecnologie digitali è tutt'ora oggetto di studio per la ricerca scientifica e si tratta di un campo di particolare complessità perchè **terreno un po' di confine e un po' condiviso tra molte discipline**.  
+
+Tuttavia, il fatto di trovarsi in una situazione di emergenza rende necessarie ed urgenti delle risposte immediate *prima* ancora che ci sia stato il tempo di formulare bene la domanda.
+
+Di fronte a ciò, la migliore arma che possediamo per muoverci è quella della **ricerca della consapevolezza** cercando di individuare e raggiungere un equilibrio nella gestione di tutti gli aspetti che sono in gioco (politici, educativi, didattici, sociologici, affettivi, ecc).
+
+Ci troviamo a fronteggiare una situazione difficile e delicata su scala mondiale che ci sta ponendo davanti a questioni che, se affrontate in modo consapevole, costruttivo e disinteressato, potranno esserci preziose per il futuro.  
+
+Il binomio emergenza-urgenza sposta l'attenzione sulla gestione dell'emergenza più che sulla gestione consapevole della complessità ma possiamo **impegnarci per trasformare questo momento in un'opportunità di approfondimento**.
+
+Almeno, per quanto mi riguarda, ci voglio provare e questo è il "senso" di questo spazio. 
+
+Vorrei mettere in questo spazio pubblico tutte le informazioni che conosco e tutte le informazioni che credo siano utili
