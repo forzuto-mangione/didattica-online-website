@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Netlify CMS
-email: your-email@example.com
+title: Didattica online
+email: emergenza.didattica.online@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the basic Jekyll starter site, with Netlify CMS integrated and using
-  Netlify Identity for authentication.
+  Questo blog vuole essere uno "sportello di aiuto" per la realizzazione della didattica a distanza e didattica online
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -25,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 
 # minima theme settings
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -38,9 +37,9 @@ minima:
 # - about.html
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+#twitter_username: jekyllrb
+#github_username:  jekyll
+#rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
