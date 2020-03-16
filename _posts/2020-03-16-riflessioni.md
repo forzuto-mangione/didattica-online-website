@@ -5,10 +5,10 @@ date:   2020-03-16
 categories: suggerimenti
 ---
 
-## Domanda: come orientarsi?  
+# Domanda: come orientarsi?  
 Questo video raccoglie alcune riflessioni trasversali e, a mio avviso, di base per orientarsi in questo momento di difficoltà. 
 
-# Video
+## Video
 Nel **video** si parla di:
 - "ingredienti" che permettono di realizzare forme di didattica a distanza e didattica online (hardware, software e connessione internet)
 - breve panoramica sui software più utili per la realizzazione di didattica a distanza
@@ -18,7 +18,7 @@ Nel **video** si parla di:
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/xOZ4aK5ZwL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-# Slide
+## Slide
 Le **slide** sulle quali si basa il video sono visualizzabili qui sotto (vi avverto però che potrebbero esserci delle differenze rispetto a quelle che vedrete nel video! infatti, sto cercando di aggiornare e correggere le slide mano a mano che raccolgo nuove informazioni :)) 
 <br>
 <br>
