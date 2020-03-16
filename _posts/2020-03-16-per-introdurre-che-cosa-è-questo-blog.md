@@ -2,8 +2,6 @@
 layout: post
 title: Per introdurre...che cosa è questo blog?
 ---
-
-
 **Questo blog**, che nasce nel momento molto particolare dell'emergenza pandemica del Covid-19, **è dedicato agli insegnanti**.  Il tema trattato qui è quello dell'**uso didattico delle tecnologie digitali** nel caso del **livello scolastico pre-universitario**. 
 
 Lo studio delle potenzialità didattiche delle tecnologie digitali è tutt'ora oggetto di studio per la ricerca scientifica e si tratta di un campo di particolare complessità perchè **terreno un po' di confine e un po' condiviso tra molte discipline**.  
@@ -18,4 +16,6 @@ Il binomio emergenza-urgenza sposta l'attenzione sulla gestione dell'emergenza p
 
 Almeno, per quanto mi riguarda, ci voglio provare e questo è il "senso" di questo spazio. 
 
-Vorrei mettere in questo spazio pubblico tutte le informazioni che conosco e tutte le informazioni che credo siano utili
+Questo spazio pubblico Vorrei  raccogliere in questo spazio pubblico tutte le informazioni che, per ragioni di studio e di lavoro, conosco riguardo all'utilizzo delle tecnologie digitali in ambito didattico.
+
+E' uno spazio appena nato, è nuovo, e per il momento contiene poco ma
