@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Come orientarsi? Riflessioni trasversali sulla didattica a distanza"
+title:  "1 - Tecnologie digitali per la didattica a distanza: come orientarsi?"
 date:   2020-03-16 
 categories: suggerimenti
 ---
