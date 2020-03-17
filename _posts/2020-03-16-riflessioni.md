@@ -6,7 +6,7 @@ comments: true
 categories: suggerimenti
 ---
 
-Questo **video** raccoglie alcune riflessioni trasversali che possono fornire alcuni punti di riferimento per orientarsi in questo momento di difficoltà. 
+Questo **video** raccoglie alcune **riflessioni trasversali** che possono fornire alcuni punti di riferimento **per orientarsi** in questo momento di difficoltà. 
 
 ## Video
 Nel **video** si parla di:
