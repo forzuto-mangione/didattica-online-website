@@ -22,6 +22,7 @@ url: "https://didatticaonline.netlify.com" # the base hostname & protocol for yo
 
 # Build settings
 theme: minima
+environment: production
 
 # minima theme settings
 show_excerpts: true # set to true to show excerpts on the homepage
