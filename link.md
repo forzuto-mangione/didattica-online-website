@@ -29,7 +29,7 @@ Office of the European Union. EUR 27948 EN. doi:10.2791/11517
 
 
 # Risorse formative e informative ufficiali di alcuni software
-Ne rispostiamo solo alcune a titolo di esempio. 
+Ne rispostiamo solo alcune a titolo di esempio. <br>
 **Moodle**
 * [Sito ufficiale] (https://moodle.org/?lang=it)
 * [Documentazione ufficiale in italiano] (https://docs.moodle.org/35/it/Pagina_principale)
@@ -40,7 +40,7 @@ Ne rispostiamo solo alcune a titolo di esempio.
 * [G Suite Training Center] (https://teachercenter.withgoogle.com/training)
 
 **Micrsoft Office 365 Education**
-[Guida e formazione su Education](https://support.office.com/it-it/education)
+*[Guida e formazione su Education](https://support.office.com/it-it/education)
 
 
 # Per ampliare lo sguardo ed accogliere la complessità
