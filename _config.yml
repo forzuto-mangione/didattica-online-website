@@ -72,5 +72,5 @@ minima:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-plugins:
-  - jemoji
+#plugins:
+#  - jemoji
