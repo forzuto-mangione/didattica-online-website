@@ -2,7 +2,7 @@
 layout: post
 title:  "1 - Tecnologie digitali per la didattica a distanza: come orientarsi?"
 date:   2020-03-16 
-comment: true
+comments: true
 categories: suggerimenti
 ---
 
