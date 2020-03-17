@@ -26,7 +26,7 @@ Office of the European Union. EUR 27948 EN. doi:10.2791/11517
 
 [Versione originale in inglese](https://ec.europa.eu/jrc/en/digcomp/digital-competence-framework)
 
-[Traduzione italiana](https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.html) a cura dell'Agenzia per l'Italia Digitale (AGID) 
+[Traduzione italiana a cura dell'Agenzia per l'Italia Digitale (AGID)](https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.html)  
 
 
 # Risorse formative e informative ufficiali di alcuni software
