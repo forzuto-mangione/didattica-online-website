@@ -45,5 +45,5 @@ Ne rispostiamo solo alcune a titolo di esempio. <br>
 
 
 # Per ampliare lo sguardo ed accogliere la complessità
-* Il [blog di Wu Ming](https://www.wumingfoundation.com/giap/). Ad esempio, [questo post](https://www.wumingfoundation.com/giap/2020/03/degoogling/) e i commenti ad esso allegati, mette sul campo elementi di riflessione e livelli di complessità sul piano politico ed economico che l'emergenza che stiamo vivendo potrebbe rischiare di offuscare ma che è di fondamentale importanza invece accogliere, o quantomeno considerare, per avviare un percorso di consapevolezza sempre maggiore. 
+Il [blog di Wu Ming](https://www.wumingfoundation.com/giap/). Ad esempio, [questo post](https://www.wumingfoundation.com/giap/2020/03/degoogling/) e i commenti ad esso allegati, mette sul campo elementi di riflessione e livelli di complessità sul piano politico ed economico che l'emergenza che stiamo vivendo potrebbe rischiare di offuscare ma che è di fondamentale importanza invece accogliere, o quantomeno considerare, per avviare un percorso di consapevolezza sempre maggiore. 
 
