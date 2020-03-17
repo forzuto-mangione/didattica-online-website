@@ -18,12 +18,13 @@ Riportiamo qui a titolo di esempio la pagina dedicata alla didattica a distanza 
 
 
 # Competenza e consapevolezza digitale
-Un documento davvero prezioso: il Quadro Europeo delle Competenze Digitali di
+Un documento davvero prezioso: <br>
+il Quadro Europeo delle Competenze Digitali di
 Vuorikari, R., Punie, Y., Carretero Gomez S., Van den Brande, G. (2016). DigComp 2.0: The Digital
 Competence Framework for Citizens. Update Phase 1: The Conceptual Reference Model. Luxembourg Publication
 Office of the European Union. EUR 27948 EN. doi:10.2791/11517
 
-[Versione originale](https://ec.europa.eu/jrc/en/digcomp/digital-competence-framework) in inglese 
+[Versione originale in inglese](https://ec.europa.eu/jrc/en/digcomp/digital-competence-framework)
 
 [Traduzione italiana](https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.html) a cura dell'Agenzia per l'Italia Digitale (AGID) 
 
@@ -40,7 +41,7 @@ Ne rispostiamo solo alcune a titolo di esempio. <br>
 * [G Suite Training Center] (https://teachercenter.withgoogle.com/training)
 
 **Micrsoft Office 365 Education**
-*[Guida e formazione su Education](https://support.office.com/it-it/education)
+* [Guida e formazione su Education](https://support.office.com/it-it/education)
 
 
 # Per ampliare lo sguardo ed accogliere la complessità
