@@ -14,7 +14,7 @@ L'obiettivo di questa sezione dedicata all'approfondimento, è quello di "trasfo
 Molte pagine istituzionali hanno predisposto degli spazi appositi per dare dei riferimenti ai docenti in questo momento di difficoltà. 
 Riportiamo qui a titolo di esempio la pagina dedicata alla didattica a distanza messa a disposizione nel sito del MIUR ma **invitiamo a consultare anche le pagine Web degli Uffici Scolastici Regionali e di quelli Provinciali**, dove potrete trovare non solo risorse ma anche informazioni su eventuali supporti disponibili a livello territoriale.
 
-**Pagina di supporto per la realizzazione della didattica a distanza messa a disposizione nel sito del MIUR:** https://www.istruzione.it/coronavirus/didattica-a-distanza.html
+[Pagina di supporto per la realizzazione della didattica a distanza messa a disposizione nel sito del MIUR](https://www.istruzione.it/coronavirus/didattica-a-distanza.html)
 
 
 # Competenza e consapevolezza digitale
@@ -23,20 +23,20 @@ Vuorikari, R., Punie, Y., Carretero Gomez S., Van den Brande, G. (2016). DigComp
 Competence Framework for Citizens. Update Phase 1: The Conceptual Reference Model. Luxembourg Publication
 Office of the European Union. EUR 27948 EN. doi:10.2791/11517
 
-[Versione originale](https://ec.europa.eu/jrc/en/digcomp/digital-competence-framework)(in inglese) in inglese 
+[Versione originale](https://ec.europa.eu/jrc/en/digcomp/digital-competence-framework) in inglese 
 
-[Traduzione italiana] (https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.html) a cura dell'Agenzia per l'Italia Digitale (AGID) 
+[Traduzione italiana](https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.html) a cura dell'Agenzia per l'Italia Digitale (AGID) 
 
 
 # Risorse formative e informative ufficiali di alcuni software
 Ne rispostiamo solo alcune a titolo di esempio. <br>
 **Moodle**
-* [Sito ufficiale] (https://moodle.org/?lang=it)
-* [Documentazione ufficiale in italiano] (https://docs.moodle.org/35/it/Pagina_principale)
-* [Sito dell'Associazione Italiana Utenti Moodle] (https://www.aium.it/)
+* [Sito ufficiale](https://moodle.org/?lang=it)
+* [Documentazione ufficiale in italiano](https://docs.moodle.org/35/it/Pagina_principale)
+* [Sito dell'Associazione Italiana Utenti Moodle](https://www.aium.it/)
 
 **G Suite for Education**
-* [G Suite Learning Center] (https://support.google.com/a/users/?hl=it#topic=9296556)
+* [G Suite Learning Center](https://support.google.com/a/users/?hl=it#topic=9296556)
 * [G Suite Training Center] (https://teachercenter.withgoogle.com/training)
 
 **Micrsoft Office 365 Education**
@@ -44,4 +44,4 @@ Ne rispostiamo solo alcune a titolo di esempio. <br>
 
 
 # Per ampliare lo sguardo ed accogliere la complessità
-Il [blog di Wu Ming] (https://www.wumingfoundation.com/giap/). Ad esempio, [questo post] (https://www.wumingfoundation.com/giap/2020/03/degoogling/) e i commenti ad esso allegati, mette sul campo elementi di riflessione e livelli di complessità sul piano politico ed economico che l'emergenza che stiamo vivendo potrebbe rischiare di offuscare ma che è di fondamentale importanza invece accogliere, o quantomeno considerare, per avviare un percorso di consapevolezza sempre maggiore. 
+Il [blog di Wu Ming](https://www.wumingfoundation.com/giap/). Ad esempio, [questo post](https://www.wumingfoundation.com/giap/2020/03/degoogling/) e i commenti ad esso allegati, mette sul campo elementi di riflessione e livelli di complessità sul piano politico ed economico che l'emergenza che stiamo vivendo potrebbe rischiare di offuscare ma che è di fondamentale importanza invece accogliere, o quantomeno considerare, per avviare un percorso di consapevolezza sempre maggiore. 
