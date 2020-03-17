@@ -18,7 +18,7 @@ Nel **video** si parla di:
 <br>
 <br>
 ## Slide
-Le **slide** sulle quali si basa il video sono visualizzabili qui sotto (vi avverto però che potrebbero esserci delle differenze rispetto a quelle che vedrete nel video! infatti, sto cercando di aggiornare e correggere le slide mano a mano che raccolgo nuove informazioni :)) 
+Le **slide** sulle quali si basa il video sono visualizzabili qui sotto (va detto però che potrebbero esserci delle differenze rispetto a quelle che vedrete nel video! Infatti, stiamo cercando di aggiornare e correggere le slide mano a mano che raccogliamo nuove informazioni :)) 
 <br>
 <br>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOCD-8o_UOQ9nVTj-n9DXQgWizOMjwN8vbP1daV6ZjfJVGD4mem4Pr6BVkZ7EkP4003q1bfs9q_ygA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="80%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
