@@ -32,8 +32,13 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt | truncate: 297 }}
         {%- endif -%}
+        <p>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            Continua a leggere...
+          </a>
+        </p>
       </li>
       {%- endfor -%}
     </ul>
