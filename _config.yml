@@ -26,6 +26,9 @@ theme: minima
 # minima theme settings
 show_excerpts: true # set to true to show excerpts on the homepage
 
+plugins:
+  - jemoji
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
