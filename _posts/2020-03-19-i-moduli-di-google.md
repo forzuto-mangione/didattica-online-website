@@ -18,3 +18,9 @@ Il compilatore del modulo, di solito, riceve un link dal quale accede alla versi
 I video che seguono sono organizzati in una tabella a due colonne in cui esploreremo le funzionalità di Google Moduli guardandole sia dalla prospettiva del creatore del modulo che da quella del compilatore.
 
 
+
+| asd    |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|   asd  |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
