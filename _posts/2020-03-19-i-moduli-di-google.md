@@ -16,3 +16,5 @@ Il creatore del modulo manipola il file "sorgente" del modulo, prende delle deci
 Il compilatore del modulo, di solito, riceve un link dal quale accede alla versione "rispondibile" del questionario.
 
 I video che seguono sono organizzati in una tabella a due colonne in cui esploreremo le funzionalità di Google Moduli guardandole sia dalla prospettiva del creatore del modulo che da quella del compilatore.
+
+
