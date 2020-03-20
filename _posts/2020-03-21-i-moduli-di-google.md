@@ -21,14 +21,14 @@ Questi primi video introduttivi interessano solo al **creatore del modulo**.
 
 **Funzioni di base per la creazione del modulo**
 
-<iframe width="80%" height="400" src="https://www.youtube.com/embed/q_TwAzfgaYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/q_TwAzfgaYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Personalizzare il comportamento base di un modulo**
 
-<iframe width="80%" height="400" src="https://www.youtube.com/embed/lbCMbjrXHY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lbCMbjrXHY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Inviare un questionario**
-
+<iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/y84UWTNq0m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Strategie d'uso
 
