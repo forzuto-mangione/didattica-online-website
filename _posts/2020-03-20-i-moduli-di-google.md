@@ -78,4 +78,5 @@ Oltre ai Moduli di Google, naturalmente, esistono moltissimi altri esempi di sof
 * La suite di applicazioni Microsoft 365 Education contiene anche il software [Microsoft Forms](https://support.office.com/it-it/article/microsoft-forms-per-l-istruzione-8580c114-fae7-4f3c-9c18-9db984f3d547?ui=it-IT&rs=it-IT&ad=IT)
 * ...e chi più ne ha, più ne metta :)
 <br>
+<br>
 Riguardo alla **possibilità di inserire feedback**, segnaliamo infine che la piattaforma [Moodle](https://moodle.org/?lang=it) offre non solo la possibilità di inserire feedback personalizzati in base al comportamento degli studenti in qualsiasi [Attività di tipo Compito](https://docs.moodle.org/35/it/Attivit%C3%A0_Compito) ma comprende anche diverse altre funzionalità che permettono di raccogliere e gestire i feedback di chi apprende ([esempio 1](https://docs.moodle.org/35/it/Attivit%C3%A0_Feedback), [esempio 2](https://docs.moodle.org/38/en/Feedback_block)).
