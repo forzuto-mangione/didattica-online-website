@@ -27,10 +27,12 @@ Questi primi video introduttivi interessano solo al **creatore del modulo**.
 <iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/lbCMbjrXHY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
+
 **Inviare un questionario**
 <iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/y84UWTNq0m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
+
 ## Esempi di strategie d'uso
 
 Nei 3 video che seguono esploreremo l'implementazione di 3 diversi intenti didattici usando in modo strategico le funzionalità di Google Moduli.
@@ -45,7 +47,8 @@ Naturalmente, sono solo degli esempi ed è importante sottolineare che **gli ste
 <br>
 **Video**
 <iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/-8AhuYgnG4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
+<br>
 # Esempio 2: Fornire feedback tempestivi e personalizzati 
 
 **Obiettivo di chi crea il modulo**: fornire feedback personalizzati agli studenti.<br>
@@ -54,7 +57,8 @@ Naturalmente, sono solo degli esempi ed è importante sottolineare che **gli ste
 <br>
 **Video**
 <iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/E2zxInMmQ6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
+<br>
 # Esempio 3: Approfondire le cause di un comportamento fallimentare
 
 **Obiettivo di chi crea il modulo**: approfondire le cause di un certo comportamento di uno studente.<br>
@@ -73,8 +77,5 @@ Oltre ai Moduli di Google, naturalmente, esistono moltissimi altri esempi di sof
 * Alcune piattaforme come [Moodle](https://moodle.org/?lang=it), [Edmodo](https://www.edmodo.com/) o [Weschool](https://www.weschool.com/) hanno degli ambienti integrati per la creazione di quiz e questionari;
 * La suite di applicazioni Microsoft 365 Education contiene anche il software [Microsoft Forms](https://support.office.com/it-it/article/microsoft-forms-per-l-istruzione-8580c114-fae7-4f3c-9c18-9db984f3d547?ui=it-IT&rs=it-IT&ad=IT)
 * ...e chi più ne ha, più ne metta :)
-
 <br>
-<br>
-
 Riguardo alla **possibilità di inserire feedback**, segnaliamo infine che la piattaforma [Moodle](https://moodle.org/?lang=it) offre non solo la possibilità di inserire feedback personalizzati in base al comportamento degli studenti in qualsiasi [Attività di tipo Compito](https://docs.moodle.org/35/it/Attivit%C3%A0_Compito) ma comprende anche diverse altre funzionalità che permettono di raccogliere e gestire i feedback di chi apprende ([esempio 1](https://docs.moodle.org/35/it/Attivit%C3%A0_Feedback), [esempio 2](https://docs.moodle.org/38/en/Feedback_block)).
