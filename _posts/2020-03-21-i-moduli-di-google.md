@@ -15,7 +15,7 @@ Il creatore del modulo manipola il file "sorgente" del modulo, prende delle deci
 
 Il compilatore del modulo, di solito, riceve un link dal quale accede alla versione "rispondibile" del questionario.
 
-# Panoramica delle funzioni chiave
+# Panoramica delle funzioni di base
 
 Questi primi video introduttivi interessano solo al **creatore del modulo**.
 
@@ -25,9 +25,12 @@ Questi primi video introduttivi interessano solo al **creatore del modulo**.
 
 **Personalizzare il comportamento base di un modulo**
 
+<iframe width="80%" height="400" src="https://www.youtube.com/embed/lbCMbjrXHY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Inviare un questionario**
 
 
-# Strategia d'uso
+# Strategie d'uso
 
 I video che seguono sono organizzati in una tabella a due colonne in cui esploreremo le funzionalità di Google Moduli guardandole sia dalla prospettiva del creatore del modulo che da quella del compilatore.
 
