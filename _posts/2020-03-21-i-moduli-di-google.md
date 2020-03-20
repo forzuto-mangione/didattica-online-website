@@ -38,6 +38,13 @@ Naturalmente, sono solo degli esempi ed è importante sottolineare che **gli ste
 
 | Video | Chi crea il modulo | Chi compila il modulo |
 |--------------| ------------------ | --------------------- |
-| <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-8AhuYgnG4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Obiettivo: raccogliere e organizzare informazioni che riguardano un grande numero di persone  |  Dovrà solo..preoccuparsi di rispondere alle domande :)|
-|  | Obiettivo: fornire feedback personalizzati agli studenti | Potrà visualizzare sia i feedback generali che quelli personalizzati (nel caso dei Moduli di Google, li visualizzerà alla fine)|
-|  | Obiettivo: approfondire le cause di un certo comportamento di uno studente  | Dovrà solo..preoccuparsi di rispondere alle domande :)|
+| <iframe width="30%" height="315" src="https://www.youtube-nocookie.com/embed/-8AhuYgnG4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Obiettivo: raccogliere e organizzare informazioni che riguardano un grande numero di persone  |  Dovrà solo..preoccuparsi di rispondere alle domande :)|
+| <iframe width="30%" height="315" src="https://www.youtube-nocookie.com/embed/E2zxInMmQ6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Obiettivo: fornire feedback personalizzati agli studenti | Potrà visualizzare sia i feedback generali che quelli personalizzati (nel caso dei Moduli di Google, li visualizzerà alla fine)|
+| <iframe width="30%" height="315" src="https://www.youtube-nocookie.com/embed/67hF8RlOOOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Obiettivo: approfondire le cause di un certo comportamento di uno studente  | Dovrà solo..preoccuparsi di rispondere alle domande :)|
+
+Nella [pagina dedicata ai Moduli di G Suite Learning Center](https://support.google.com/docs/topic/9055404?hl=it&ref_topic=1382883) troverete altri utili approfondimenti sulle sue funzionalità.
+
+Altri esempi di software e applicazioni che permettono di creare questionari sono:
+
+
+Riguardo alla **possibilità di inserire feedback**, segnaliamo infine che la piattaforma **[Moodle](https://moodle.org/?lang=it)** offre non solo la possibilità di inserire feedback personalizzati in base al comportamento degli studenti in qualsiasi tipo di [Compito](https://docs.moodle.org/35/it/Attivit%C3%A0_Compito) ma comprende anche diverse altre funzionalità che permettono di raccogliere e gestire i feedback di chi apprende ([esempio 1](https://docs.moodle.org/35/it/Attivit%C3%A0_Feedback), [esempio 2](https://docs.moodle.org/38/en/Feedback_block)).
