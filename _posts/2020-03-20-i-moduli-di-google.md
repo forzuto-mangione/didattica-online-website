@@ -79,4 +79,5 @@ Oltre ai Moduli di Google, naturalmente, esistono moltissimi altri esempi di sof
 * ...e chi più ne ha, più ne metta :)
 <br>
 <br>
+
 Riguardo alla **possibilità di inserire feedback**, segnaliamo infine che la piattaforma [Moodle](https://moodle.org/?lang=it) offre non solo la possibilità di inserire feedback personalizzati in base al comportamento degli studenti in qualsiasi [Attività di tipo Compito](https://docs.moodle.org/35/it/Attivit%C3%A0_Compito) ma comprende anche diverse altre funzionalità che permettono di raccogliere e gestire i feedback di chi apprende ([esempio 1](https://docs.moodle.org/35/it/Attivit%C3%A0_Feedback), [esempio 2](https://docs.moodle.org/38/en/Feedback_block)).
