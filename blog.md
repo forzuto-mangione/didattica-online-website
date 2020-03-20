@@ -38,3 +38,9 @@ Ci troviamo a fronteggiare una situazione difficile e delicata su scala mondiale
 Il binomio emergenza-urgenza sposta l’attenzione sulla gestione dell’emergenza più che sulla gestione consapevole della complessità ma possiamo impegnarci per trasformare questo momento in un’opportunità di approfondimento.
 
 E allora, dai: proviamoci. Insieme.
+
+# PS
+Come vedrete, non siamo dei professionisti nel fare video quindi ci scusiamo per tutti i passaggi imprecisi e per la qualità delle registrazioni (che, di sicuro, non sarà delle migliori anche perchè non usiamo attrezzatura professionale!). 
+Tuttavia, speriamo che, nonostante le imperfezioni, i materiali raccolti nel blog possano essere utili a chi li guarderà/leggerà :) 
+Naturalmente, qualunque feedback/suggerimento vorrete darci per migliorare sarà per noi prezioso!!
+Grazie!
