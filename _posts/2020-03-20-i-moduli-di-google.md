@@ -21,11 +21,11 @@ Questi primi video introduttivi interessano solo al **creatore del modulo**.
 <br>
 **Funzioni di base per la creazione del modulo**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/q_TwAzfgaYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/q_TwAzfgaYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 **Personalizzare il comportamento base di un modulo**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lbCMbjrXHY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/lbCMbjrXHY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 **Inviare un questionario**
 <iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/y84UWTNq0m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -42,7 +42,7 @@ Naturalmente, sono solo degli esempi ed è importante sottolineare che **gli ste
 **Chi compila il modulo...**: Dovrà solo..preoccuparsi di rispondere alle domande :)<br>
 <br>
 **Video**
-<iframe width="80%" height="315" src="https://www.youtube-nocookie.com/embed/-8AhuYgnG4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/-8AhuYgnG4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Esempio 2: Fornire feedback tempestivi e personalizzati 
 
@@ -50,7 +50,7 @@ Naturalmente, sono solo degli esempi ed è importante sottolineare che **gli ste
 **Chi compila il modulo...**: Potrà visualizzare sia i feedback generali che quelli personalizzati (nel caso dei Moduli di Google, li visualizzerà alla fine)<br>
 <br>
 **Video**
-<iframe width="30%" height="315" src="https://www.youtube-nocookie.com/embed/E2zxInMmQ6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/E2zxInMmQ6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Esempio 3: Approfondire le cause di un comportamento fallimentare
 
@@ -58,13 +58,17 @@ Naturalmente, sono solo degli esempi ed è importante sottolineare che **gli ste
 **Chi compila il modulo...**: Dovrà solo..preoccuparsi di rispondere alle domande :)<br>
 <br>
 **Video**
-<iframe width="30%" height="315" src="https://www.youtube-nocookie.com/embed/67hF8RlOOOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="400" src="https://www.youtube-nocookie.com/embed/67hF8RlOOOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 # Per approfondire
 Nella [pagina dedicata ai Moduli di G Suite Learning Center](https://support.google.com/docs/topic/9055404?hl=it&ref_topic=1382883) troverete altri utili approfondimenti sulle sue funzionalità.
 
-Altri esempi di software e applicazioni che permettono di creare questionari sono:
+Qui abbiamo parlato dei Moduli di Google ma naturalmente esistono moltissimi altri esempi di software e applicazioni che permettono di creare questionari, ad esempio:
+* 4 esempi di software open source sono raccolti e descritti nel sito [opensource.com](https://opensource.com/article/17/2/tools-online-surveys-polls);
+* Alcune piattaforme come [Moodle](https://moodle.org/?lang=it), [Edmodo](https://www.edmodo.com/) o [Weschool](https://www.weschool.com/) hanno degli ambienti integrati per la creazione di quiz e questionari;
+* La suite di applicazioni Microsoft 365 Education contiene anche il software [Microsoft Forms](https://support.office.com/it-it/article/microsoft-forms-per-l-istruzione-8580c114-fae7-4f3c-9c18-9db984f3d547?ui=it-IT&rs=it-IT&ad=IT)
+* ...e chi più ne ha, più ne metta :)
 
 
-Riguardo alla **possibilità di inserire feedback**, segnaliamo infine che la piattaforma **[Moodle](https://moodle.org/?lang=it)** offre non solo la possibilità di inserire feedback personalizzati in base al comportamento degli studenti in qualsiasi tipo di [Compito](https://docs.moodle.org/35/it/Attivit%C3%A0_Compito) ma comprende anche diverse altre funzionalità che permettono di raccogliere e gestire i feedback di chi apprende ([esempio 1](https://docs.moodle.org/35/it/Attivit%C3%A0_Feedback), [esempio 2](https://docs.moodle.org/38/en/Feedback_block)).
+Riguardo alla **possibilità di inserire feedback**, segnaliamo infine che la piattaforma [Moodle](https://moodle.org/?lang=it) offre non solo la possibilità di inserire feedback personalizzati in base al comportamento degli studenti in qualsiasi tipo di [Compito](https://docs.moodle.org/35/it/Attivit%C3%A0_Compito) ma comprende anche diverse altre funzionalità che permettono di raccogliere e gestire i feedback di chi apprende ([esempio 1](https://docs.moodle.org/35/it/Attivit%C3%A0_Feedback), [esempio 2](https://docs.moodle.org/38/en/Feedback_block)).
