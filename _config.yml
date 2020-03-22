@@ -25,7 +25,7 @@ collections:
 
 defaults: 
   - scope:
-      path: '_categories'
+      path: "_categories"
       type: categories
       values:
         layout: blog
