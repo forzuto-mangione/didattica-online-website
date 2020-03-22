@@ -9,10 +9,12 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <strong>Filtra i post per categoria:</strong>
+        <p><strong>Filtra i post per categoria:</strong></p>
+        <p>
         {%- for category in site.categories -%}
-          <a href="/{{ category.slug }}/"><button type="button">{{ category.title }}</button></a>
+          <a href="/{{ category.slug }}/"><button type="button">{{ category.title }}</button></a>&nbsp;
         {%- endfor -%}
+        </p>
       </div>  
       <div class="wrapper">
         {{ content }}
