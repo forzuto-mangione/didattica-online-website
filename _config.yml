@@ -18,6 +18,8 @@ disqus:
 minima:
   date_format: "%b %-d, %Y"
 
+permalink: /:categories/:slug:output_ext
+
 collections:
   categories:
     output: true
@@ -27,7 +29,7 @@ defaults:
   - scope:
       path: "_categories"
       type: categories
-      values:
-        layout: blog
+    values:
+      layout: blog
       
-permalink: /:categories/:slug:output_ext
+
