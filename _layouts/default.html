@@ -11,13 +11,23 @@
       <div class="wrapper">
         <p><strong>Filtra i post per categoria:</strong></p>
         <p>
-        {%- for category in site.categories -%}
-          <a href="/{{ category.slug }}/"><button type="button">{{ category.title }}</button></a>&nbsp;
-        {%- endfor -%}
+          <a href="/"><button type="button">Tutti i post</button></a>&nbsp;
+          {%- for category in site.categories -%}
+            <a href="/{{ category.slug }}/"><button type="button">{{ category.title }}</button></a>&nbsp;
+          {%- endfor -%}
         </p>
       </div>  
       <div class="wrapper">
         {{ content }}
+      </div>
+      <div class="wrapper">
+        <p><strong>Filtra i post per categoria:</strong></p>
+        <p>
+          <a href="/"><button type="button">Tutti i post</button></a>&nbsp;
+          {%- for category in site.categories -%}
+            <a href="/{{ category.slug }}/"><button type="button">{{ category.title }}</button></a>&nbsp;
+          {%- endfor -%}
+        </p>
       </div>
     </main>
 
