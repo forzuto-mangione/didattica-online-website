@@ -1,7 +1,9 @@
 ---
 layout: post
 title: I Moduli di Google
+categories: ['gsuite', 'questionari']
 ---
+
 **Google Moduli** (o Google Form) è una delle applicazioni disponibili per chiunque abbia un account Google (personale, G Suite for Education, ecc....). Questo post raccoglie **una serie di video**, ciascuno dedicato a mostrare esempi d'uso "strategico" delle funzionalità di questa applicazione.
 
 Naturalmente, **i software che permettono di creare questionari sono tanti** e Google Moduli è solo un esempio. In fondo al post, riporteremo un piccolo elenco di alternative (NON esaustivo) invitando i lettori a provarli, magari cercando le funzionalità "simmetriche" di quelle presentate qui nel contesto dell'applicazione di Google. 
