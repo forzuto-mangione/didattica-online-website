@@ -30,6 +30,6 @@ defaults:
       path: "_categories"
       type: categories
     values:
-      layout: blog
+      layout: category
       
 
