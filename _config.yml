@@ -17,3 +17,16 @@ disqus:
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+
+collections:
+  categories:
+    output: true
+    permalink: /:name/
+
+defaults: 
+  - scope:
+      path: '_categories'
+      type: categories
+      values:
+        layout: blog
+      
