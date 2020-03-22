@@ -30,3 +30,4 @@ defaults:
       values:
         layout: blog
       
+permalink: /:categories/:slug:output_ext
