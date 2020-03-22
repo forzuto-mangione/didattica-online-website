@@ -9,14 +9,14 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <button>Vedi</button> <button>Vedi</button><button>Vedi</button> <button>Vedi</button> <button>Vedi</button>
+        <strong>Filtra i post per categoria:</strong>
+        {%- for category in site.categories -%}
+          <a href="/{{ category.slug }}/"><button type="button">{{ category.title }}</button></a>
+        {%- endfor -%}
       </div>  
       <div class="wrapper">
         {{ content }}
       </div>
-      <div class="wrapper">
-        <button>Vedi</button> <button>Vedi</button><button>Vedi</button> <button>Vedi</button> <button>Vedi</button>
-      </div>  
     </main>
 
     {%- include footer.html -%}
