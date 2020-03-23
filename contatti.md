@@ -4,7 +4,7 @@ title: Contatta lo sportello
 permalink: contatti.html
 ---
 
-Per contattare questo "Sportello di aiuto" puoi mandarci una **mail** all'indirizzo emergenza.didattica.online@gmail.com oppure puoi usare il **form** qui sotto per descriverci il problema che stai incontrando o l'intoppo che ti intralcia nella realizzazione di una didattica a distanza efficace! 
+Per contattare questo "Sportello di aiuto" puoi mandare una **mail** all'indirizzo **emergenza.didattica.online@gmail.com** oppure puoi usare il **form** qui sotto descrivendo il problema che stai incontrando o l'intoppo che ti intralcia nella realizzazione di una didattica a distanza efficace! 
 Noi leggeremo con attenzione sperando di riuscire a fare qualcosa di utile per darti una mano!
 
 Intanto..grazie!
