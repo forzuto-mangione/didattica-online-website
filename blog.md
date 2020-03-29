@@ -8,17 +8,20 @@ permalink: blog.html
 Questo blog nasce e assume senso durante l'emergenza Covid-19 ed è dedicato agli insegnanti delle scuole di qualsiasi ordine e grado per il livello pre-universitario.
 Obiettivo del blog è quello di offrire un supporto per gli "inghippi" quotidiani che si possono incontrare in questo momento in cui il realizzare forme di didattica a distanza e didattica online è **urgente**. 
 
+## Chi siamo noi
+Questo blog è gestito da Agnese Del Zozzo, assegnista di ricerca presso la Libera Università di Bolzano, con la collaborazione e la supervisione tecnica di [Stefano Pio Zingaro](https://www.unibo.it/sitoweb/stefanopio.zingaro/), professore a contratto e dottorando del Dipartimento di Informatica - Scienza e Ingegneria presso l'Università di Bologna.
 Per motivi di studio e di lavoro, abbiamo potuto interfacciarci con diverse situazioni che riguardano l'uso delle tecnologie per la didattica e sappiamo quanto spesso capiti di sentirsi disorientati in questo mondo così complesso. Sappiamo anche però che lavorando insieme è possibile mettere ordine e quindi...eccoci qui!
 
+## Cosa vogliamo fare
 Vorremmo provare a realizzare una specie di **"sportello di aiuto"** in questo momento di emergenza, in cui fare ciò che possiamo per affiancarvi nel fronteggiare gli ostacoli che state incontrando mentre, coraggiosamente, portate avanti il vostro progetto di didattica a distanza.
 
 Però c'è una regola particolare: **i contenuti presenti nel blog, dipenderanno da voi e dalle vostre domande**.
 
 Mettiamola così: prima viene lo sportello di ascolto delle domande poi, assume senso il blog di raccolta delle risposte :)
 <br>
-E' uno spazio nuovo, appena nato e al momento contiene poche informazioni che però, con la vostra collaborazione, aumenteranno siamo certi che aumenteranno sempre di più. 
 
-**Per "attivare" questo sportello e chiedere aiuto ci sono due strade:**
+## Come usare questo blog
+**Per "attivare" lo sportello e chiedere aiuto ci sono due strade:**
 1. scriverci una mail all'indirizzo emergenza.didattica.online@gmail.com
 2. compilare il form che trovate nella scheda [Contatta lo sportello](https://didatticaonline.netlify.com/contatti.html)
 
