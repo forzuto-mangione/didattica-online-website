@@ -4,7 +4,6 @@ title: Questo blog
 permalink: blog.html
 ---
 
-# In breve
 Questo blog nasce e assume senso durante l'emergenza Covid-19 ed è dedicato agli insegnanti delle scuole di qualsiasi ordine e grado per il livello pre-universitario.
 Obiettivo del blog è quello di offrire un supporto per gli "inghippi" quotidiani che si possono incontrare in questo momento in cui il realizzare forme di didattica a distanza e didattica online è **urgente**. 
 
@@ -29,7 +28,7 @@ Intanto vi ringraziamo perchè se questa iniziativa avrà un senso, sarà solo g
 <br>
 <br>
 
-# Due parole sul contesto
+## Due parole sul contesto
 Lo studio delle **potenzialità didattiche delle tecnologie digitali è tutt’ora oggetto di studio per la ricerca scientifica** e si tratta di un **campo di particolare complessità** perchè terreno un po’ di confine e un po’ condiviso tra molte discipline.
 
 Tuttavia, il fatto di trovarsi in una situazione di emergenza rende necessarie ed urgenti delle risposte immediate prima ancora che ci sia stato il tempo di formulare bene la domanda.
@@ -42,7 +41,7 @@ Il binomio emergenza-urgenza sposta l’attenzione sulla gestione dell’emergen
 
 E allora, dai: proviamoci. Insieme.
 
-# PS
+## PS
 Come vedrete, non siamo dei professionisti nel fare video quindi ci scusiamo per tutti i passaggi imprecisi e per la qualità delle registrazioni (che, di sicuro, non sarà delle migliori anche perchè non usiamo attrezzatura professionale!). <br>
 Tuttavia, speriamo che, nonostante le imperfezioni, i materiali raccolti nel blog possano essere utili a chi li guarderà/leggerà :) <br>
 Naturalmente, qualunque feedback/suggerimento vorrete darci per migliorare sarà per noi prezioso!! <br>
