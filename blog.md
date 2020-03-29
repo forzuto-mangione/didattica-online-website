@@ -41,7 +41,7 @@ Il binomio emergenza-urgenza sposta l’attenzione sulla gestione dell’emergen
 
 E allora, dai: proviamoci. Insieme.
 
-**PS** - Come vedrete, non siamo dei professionisti nel fare video quindi ci scusiamo per tutti i passaggi imprecisi e per la qualità delle registrazioni (che, di sicuro, non sarà delle migliori anche perchè non usiamo attrezzatura professionale!). <br>
+**PS**. Come vedrete, non siamo dei professionisti nel fare video quindi ci scusiamo per tutti i passaggi imprecisi e per la qualità delle registrazioni (che, di sicuro, non sarà delle migliori anche perchè non usiamo attrezzatura professionale!). <br>
 Tuttavia, speriamo che, nonostante le imperfezioni, i materiali raccolti nel blog possano essere utili a chi li guarderà/leggerà :) <br>
 Naturalmente, qualunque feedback/suggerimento vorrete darci per migliorare sarà per noi prezioso!! <br>
 Grazie!
