@@ -17,7 +17,7 @@ Nel **video** si parla di:
 <br>
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/xOZ4aK5ZwL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-**Nota del 6 Aprile 2020**: Nel video, al minuto 5:59, viene detto che per usare Skype è necessario avere un account. Una novità recentemente introdotta è Meet Now che, ad esempio [nella versione online](https://www.skype.com/en/free-conference-call/), non richiede alcun download nè account. Per avere maggiori informazioni riguardo questa modalità d'uso di Skype, rimandiamo alla pagina ufficiale: [supporto su Skype Meet Now](https://support.skype.com/en/faq/FA34926/what-is-meet-now-and-how-do-i-use-it-in-skype).  
+**Nota del 6 Aprile 2020**: Nel video, al minuto 5:59, viene detto che per usare Skype è necessario avere un account. Una novità recentemente introdotta è Meet Now (Riunione Immediata) che, ad esempio [nella versione online](https://www.skype.com/en/free-conference-call/), non richiede alcun download nè account. Per avere maggiori informazioni riguardo questa modalità d'uso di Skype, rimandiamo alla pagina ufficiale: [supporto su Skype Meet Now](https://support.skype.com/it/faq/FA34926/che-cos-e-riunione-immediata-e-come-si-utilizza-in-skype?q=Meet+Now).  
 
 <br>
 ## Slide
