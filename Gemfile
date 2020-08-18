@@ -17,6 +17,7 @@ gem "jekyll", "~> 3.8"
 # gem "github-pages", group: :jekyll_plugins
 gem "minima", "~> 2.5"
 gem "concurrent-ruby", "~> 1.1.1"
+gem "kramdown", ">= 2.3.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
