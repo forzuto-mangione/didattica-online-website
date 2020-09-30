@@ -72,7 +72,7 @@ Naturalmente, sono solo degli esempi ed è importante sottolineare che **gli ste
 <br>
 
 ## Per approfondire
-Nella [pagina dedicata ai Moduli nella G Suite Learning Center](https://support.google.com/docs/topic/9055404?hl=it&ref_topic=1382883) troverete altri utili approfondimenti sulle sue funzionalità.
+Nella [pagina dedicata ai Moduli nella G Suite Learning Center](https://support.google.com/docs/topic/9055404?hl=it&ref_topic=1382883) e nella [pagina di Google Moduli nel centro insegnanti di Google](https://edu.google.com/intl/it_it/teacher-center/products/forms/?modal_active=none) troverete altri utili approfondimenti sulle sue funzionalità.
 <br>
 Oltre ai Moduli di Google, naturalmente, esistono moltissimi altri esempi di software e applicazioni che permettono di creare questionari; ad esempio:
 * [4 esempi di software open source sono raccolti e descritti nel sito opensource.com](https://opensource.com/article/17/2/tools-online-surveys-polls);
