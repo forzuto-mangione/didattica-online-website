@@ -3,7 +3,7 @@ email: emergenza.didattica.online@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Uno "sportello di aiuto" per la realizzazione della didattica a distanza e didattica online
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://didatticaonline.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thezingaro.github.io/didattica-online-website" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
