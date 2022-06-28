@@ -11,7 +11,7 @@
       <div class="wrapper">
         <p><strong>Filtra i post per categoria:</strong></p>
         <p>
-          <a href="/"><button class="category-button" type="button">Tutti i post</button></a>&nbsp;
+          <a href="{{ "/" | relative_url }}"><button class="category-button" type="button">Tutti i post</button></a>&nbsp;
           {%- for category in site.categories -%}
             <a href="{{ category.slug | relative_url }}"><button class="category-button" type="button">{{ category.title }}</button></a>&nbsp;
           {%- endfor -%}
@@ -23,7 +23,7 @@
       <div class="wrapper">
         <p><strong>Filtra i post per categoria:</strong></p>
         <p>
-          <a href="/"><button class="category-button" type="button">Tutti i post</button></a>&nbsp;
+          <a href="{{ "/" | relative_url }}"><button class="category-button" type="button">Tutti i post</button></a>&nbsp;
           {%- for category in site.categories -%}
             <a href="{{ category.slug | relative_url }}"><button class="category-button" type="button">{{ category.title }}</button></a>&nbsp;
           {%- endfor -%}
